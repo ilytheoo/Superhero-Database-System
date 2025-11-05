@@ -1,7 +1,7 @@
 # Superhero-Database-System
 A Windows Forms-based Superhero Management System integrated with Git &amp; GitHub for version control.
 
-#🧩 Project Overview
+# Project Overview
 
 The One Kick Heroes Academy trains future heroes to handle everything from pop quizzes to full-scale finals-week crises.
 Your HQ development team built a C# Windows Forms application that replaces chaotic paper-based hero records with a digital database.
