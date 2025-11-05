@@ -1,0 +1,30 @@
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe.config
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.pdb
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.Properties.Resources.resources
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.pdb
+C:\Users\Student\source\repos\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe.config
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe.config
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.pdb
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe.config
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.Properties.Resources.resources
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe
+C:\Users\User\OneDrive - belgiumcampus.ac.za\Documents\YEAR 2\PRG272\PRG272_Project\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.pdb
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe.config
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.exe
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\bin\Debug\SuperherosApp.pdb
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe.config
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.Properties.Resources.resources
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.exe
+C:\Users\Student\Desktop\school stuff\HeroSystemManager\SuperherosApp\SuperherosApp\obj\Debug\SuperherosApp.pdb

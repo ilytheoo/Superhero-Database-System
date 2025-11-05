@@ -1,0 +1,7 @@
+Total Heroes: 2
+Average Age: 16,0
+Average Score: 80,0
+S-Rank: 1
+A-Rank: 1
+B-Rank: 0
+C-Rank: 0
